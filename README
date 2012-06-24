@@ -1,5 +1,5 @@
 Boilerplate for Backbone projects using require.js
 
-Shares events between views via eventAggregator,
-BaseView and Parent view extend Backbone.Vie and include functions for cleaning up after themselves, and their children
-Router handles cleanup and display with showView method
+- Shares events between views via eventAggregator
+- BaseView and Parent view extend Backbone.View and include functions for cleaning up after themselves, and their children
+- Router handles cleanup and display with showView method
